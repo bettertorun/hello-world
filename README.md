@@ -1,2 +1,2 @@
 # hello-world
-nothing to lose
+nothing to be afraid
